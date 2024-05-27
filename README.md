@@ -31,7 +31,7 @@ Anda dapat melihat demo aplikasi di sini: [Demo Al-Qur'an Digital](#)
 ### Langkah-langkah
 
    ```sh
-   git clone [https://github.com/username/al-quran-digital.git](https://github.com/Jon3sjns/Quran-Digital)
+   git clone https://github.com/Jon3sjns/Quran-Digital
    cd al-quran-digital
    'npm install' or 'yarn'
    'npm run dev' or 'yarn dev'
