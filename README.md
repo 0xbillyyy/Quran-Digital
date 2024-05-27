@@ -6,13 +6,8 @@ Proyek ini adalah aplikasi web berbasis React.js yang menampilkan Al-Qur'an digi
 ## Fitur
 
 - Menampilkan daftar surah dalam Al-Qur'an.
-- Menampilkan detail surah termasuk ayat, terjemahan, dan tafsir.
 - Memutar audio tilawah setiap surah.
 - Pencarian surah berdasarkan nama.
-
-## Demo
-
-Anda dapat melihat demo aplikasi di sini: [Demo Al-Qur'an Digital](#)
 
 ## Teknologi yang Digunakan
 
@@ -41,22 +36,22 @@ Anda dapat melihat demo aplikasi di sini: [Demo Al-Qur'an Digital](#)
 
 ## Lain - Lain
 
-### Penggunaan
-
-- Pencarian Surah
-  - Gunakan kotak pencarian di bagian atas halaman untuk mencari surah berdasarkan nama.
-- Memutar Audio
-  - Klik tombol play pada bagian audio player untuk memutar tilawah surah yang dipilih.
-
-### Sumber Data
-
-Data diambil dari API berikut: [https://al-quran-8d642.firebaseio.com/data.json?print=pretty](https://al-quran-8d642.firebaseio.com/data.json?print=pretty)
-
-### Lisensi
-
-Proyek ini dilisensikan di bawah lisensi MIT. Lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
-
-### Kontribusi
-
-Kontribusi sangat diterima! Silakan fork repositori ini dan buat pull request dengan perubahan Anda.
+   ### Penggunaan
+   
+   - Pencarian Surah
+     - Gunakan kotak pencarian di bagian atas halaman untuk mencari surah berdasarkan nama.
+   - Memutar Audio
+     - Klik tombol play pada bagian audio player untuk memutar tilawah surah yang dipilih.
+   
+   ### Sumber Data
+   
+   Data diambil dari API berikut: [https://al-quran-8d642.firebaseio.com/data.json?print=pretty](https://al-quran-8d642.firebaseio.com/data.json?print=pretty)
+   
+   ### Lisensi
+   
+   Proyek ini dilisensikan di bawah lisensi MIT. Lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
+   
+   ### Kontribusi
+   
+   Kontribusi sangat diterima! Silakan fork repositori ini dan buat pull request dengan perubahan Anda.
 
