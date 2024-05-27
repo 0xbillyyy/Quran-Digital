@@ -1,4 +1,6 @@
-# ![Screenshot (59)](https://github.com/Jon3sjns/Quran-Digital/assets/45759837/67edb14e-0ab0-438c-8775-220f9f94379a)
+
+![Screenshot (60)](https://github.com/Jon3sjns/Quran-Digital/assets/45759837/334aa0f2-9283-4d7d-9681-400b2c5e27a5)
+
 Al-Qur'an Digital dengan Audio
 
 Proyek ini adalah aplikasi web berbasis React.js yang menampilkan Al-Qur'an digital lengkap dengan terjemahan Bahasa Indonesia dan audio. Aplikasi ini menggunakan Vite sebagai build tool dan mengambil data dari API [Al-Qur'an](https://al-quran-8d642.firebaseio.com/data.json?print=pretty).
