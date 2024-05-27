@@ -56,7 +56,7 @@ function App() {
       >
         <Container>
           <div style={{ height: '100vh' }}>
-            <h1 className='text-center text-white' style={{ paddingTop: "20vh" }}>Selamat datang pada Al-Qur'an Digital</h1>
+            <h1 className='text-center text-white' style={{ paddingTop: "20vh" }}>Al-Qur'an Digital</h1>
             <p className='text-center text-white'>Website ini merupakan digitalisasi Al-Qur'an Berbahasa Indonesia</p>
           </div>
         </Container>
