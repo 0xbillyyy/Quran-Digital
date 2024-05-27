@@ -51,7 +51,7 @@ Data diambil dari API berikut: [https://al-quran-8d642.firebaseio.com/data.json?
 
 ### Lisensi
 
-Proyek ini dilisensikan di bawah lisensi MIT. Lihat file LICENSE untuk informasi lebih lanjut.
+Proyek ini dilisensikan di bawah lisensi MIT. Lihat file [LICENSE](LICENSE) untuk informasi lebih lanjut.
 
 ### Kontribusi
 
